@@ -1,4 +1,3 @@
-from math import fabs
 from turtle import *
 from random import choice, random
 
